@@ -1,2 +1,7 @@
 # jinja2_fmt_day
-Simple tool to standardize the indentation of jinja2 files.
+* in development.  Meant to standardize jinja2 tabbing.
+
+# Usage
+```bash
+python jinja2_fmt_day.py <filename>
+```
