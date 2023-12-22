@@ -1,4 +1,4 @@
-# jinja2_fmt_day
+# jinja2_fmt_day !! EXPERIMENTAL !!
 * in development.  Meant to standardize jinja2 tabbing.
 
 # Usage
